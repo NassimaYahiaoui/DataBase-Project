@@ -1,5 +1,4 @@
   Nassima Yahiaoui
-  Professor: Liz. Miller
   Course: CIT 284                                                                                                                               
   April 15, 2019 
 
